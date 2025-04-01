@@ -7,3 +7,4 @@ The utilization of CCTV remains passive, and manually monitoring footage to witn
 I utilized public data available on the AI hub. \
 [AI Hub Public Data](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=171)
 
+### Preprocessing Data
